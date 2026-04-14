@@ -15,7 +15,7 @@
 
 LawyerBot is an AI-powered legal assistant that answers questions about Kerala and Indian law using a **Retrieval Augmented Generation (RAG)** pipeline. It retrieves relevant sections from real legal documents and generates accurate, context-aware answers using **Llama 3.3 70B** via the Groq API.
 
-it retrieves relevent sections from legal documents and generates human understanding language
+It retrieves relevant sections from legal documents and generates human-understandable language
 
 ---
 
@@ -39,7 +39,7 @@ User Question
 
 \\\&#x20;     ↓
 
-FastAPI (api.py)          ← receives HTTP request
+FastAPI (api.py)          ← receives an HTTP request
 
 \\\&#x20;     ↓
 
@@ -47,19 +47,19 @@ all-MiniLM-L6-v2          ← converts question to 384-dim vector
 
 \\\&#x20;     ↓
 
-FAISS (lawyerbot.index)   ← finds top 5 most similar law chunks
+FAISS (lawyerbot.index)   ← finds the top 5 most similar law chunks
 
 \\\&#x20;     ↓
 
-Groq API + Llama 3.3 70B  ← generates answer using retrieved chunks
+Groq API + Llama 3.3 70B  ← generates an answer using retrieved chunks
 
 \\\&#x20;     ↓
 
-FastAPI                   ← sends JSON response back
+FastAPI                   ← sends a JSON response back
 
 \\\&#x20;     ↓
 
-lawyerbot.html            ← displays answer to user
+lawyerbot.html            ← displays answer to the  user
 
 ```
 
@@ -275,7 +275,10 @@ uvicorn api:app --reload
 ## Demo
 
 
-https://github.com/user-attachments/assets/7b8f52a2-fcf3-42cb-84bc-8b47b33251c1
+
+
+https://github.com/user-attachments/assets/77852d64-7356-41eb-a1cc-03a7e6253022
+
 
 
 
