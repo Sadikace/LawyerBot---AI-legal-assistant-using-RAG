@@ -276,9 +276,7 @@ uvicorn api:app --reload
 
 
 
-
-https://github.com/user-attachments/assets/77852d64-7356-41eb-a1cc-03a7e6253022
-
+https://github.com/user-attachments/assets/80f321d7-f14d-4e2f-a44a-789d8efe5c07
 
 
 
