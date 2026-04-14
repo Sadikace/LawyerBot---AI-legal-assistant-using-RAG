@@ -274,7 +274,10 @@ uvicorn api:app --reload
 ```
 ## Demo
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd64238f-6308-4cc9-a53c-f0369f72f6c4" />
+
+https://github.com/user-attachments/assets/7b8f52a2-fcf3-42cb-84bc-8b47b33251c1
+
+
 
 ---
 ## Author
