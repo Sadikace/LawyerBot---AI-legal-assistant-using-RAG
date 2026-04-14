@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/acff3a21-dd6d-4bec-a2a3-9efa7c256a04
+
 #  LawyerBot - AI legal assistant using RAG
 
 > An AI-powered legal chatbot for Kerala \\\\\\\& Indian law, built using Retrieval Augmented Generation (RAG)
@@ -103,7 +107,11 @@ lawyerbot\\\\\\\_dataset/
 
 │   └── metadata.json     ← chunk-to-source mapping
 
-└── PythonProject/
+└── PythonProject/ 
+
+https://github.com/user-attachments/assets/30759d33-62c2-4502-ac5d-fe24cf709a7b
+
+
 
 \\\&#x20;   ├── api.py            ← main FastAPI backend
 
@@ -266,6 +274,22 @@ python vector.py
 uvicorn api:app --reload
 
 ```
+## Demo
+
+https://github.com/user-attachments/assets/8f667315-7633-48d7-a9b7-008dc725d1fc
+
+
+
+https://github.com/user-attachments/assets/51bef8d2-0c8d-4787-be8b-3d544d944be0
+
+
+
+---
+## Demo
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd64238f-6308-4cc9-a53c-f0369f72f6c4" />
+
+---
 ## Author
 
 
